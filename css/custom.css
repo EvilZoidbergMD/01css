@@ -1,1 +1,36 @@
 /* custom css */
+
+h1 {
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+}
+
+a {
+	color:black;
+	text-decoration: none;
+}
+
+li {
+	width: 25%;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	float: left;
+	display: inline;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.one {
+	background-color:yellow;
+}
+
+.two {
+	background-color:red;
+}
+
+.three {
+	background-color:blue;
+}
